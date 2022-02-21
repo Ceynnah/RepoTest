@@ -1,1 +1,1 @@
-web: pip install . -U && RepoTest-run
+web: pip install . -U && ChaffPueDeLaGueule-run
